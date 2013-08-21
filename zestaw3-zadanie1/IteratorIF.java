@@ -1,0 +1,6 @@
+
+public interface IteratorIF <T>
+{
+	public boolean hasNext();
+	public T next();
+}
